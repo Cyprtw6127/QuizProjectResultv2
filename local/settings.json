@@ -1,0 +1,7 @@
+{
+  "use-global-engine-setting": false,
+  "use-default-js-engine": false,
+  "js-engine-path": "C:\\MVersys\\projects\\newEnhance\\cocos-enhance-kit-1.2.0-v2.4.12\\engine",
+  "use-default-cpp-engine": false,
+  "cpp-engine-path": "C:\\MVersys\\projects\\cocos-enhance-kit-v1.2.0-v2.4.12\\cocos2d-x"
+}
